@@ -1,0 +1,40 @@
+
+**Privacy Policy for Light Assist**
+
+Effective Date: [2024-12-26]
+
+Thank you for choosing Light Assist. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
+
+**1. Information We Collect**
+
+- **Android Virtual ID**: We collect your Android Virtual ID to prevent malicious activities such as app cracking or attacks. This is the only personal information we collect.
+
+**2. How We Use Your Information**
+
+- **Security and Protection**: The Android Virtual ID is used solely for security purposes to ensure the integrity and proper functioning of the app.
+
+**3. Advertising**
+
+- Our app displays advertisements to support development and maintenance. These ads may be provided by third-party ad networks, which may collect information about your device to provide personalized ads.
+
+**4. Data Sharing and Disclosure**
+
+- We do not share your Android Virtual ID or any other personal information with third parties, except as required by law or to protect our rights.
+
+**5. Data Security**
+
+- We implement reasonable security measures to protect your information from unauthorized access, alteration, or disclosure.
+
+**6. Children's Privacy**
+
+- Light Assist is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13.
+
+**7. Changes to This Privacy Policy**
+
+- We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
+
+**8. Contact Us**
+
+- If you have any questions or concerns about this Privacy Policy, please contact us at [Google Play].
+
+By using Light Assist, you consent to this Privacy Policy.
